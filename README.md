@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yosho Sawai
 
-<!--
-**YSawaiUMD/YSawaiUMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gameplay programmer and creative developer studying **Computer Science + Immersive Media Design at the University of Maryland**.
 
-Here are some ideas to get you started:
+I build games, gameplay systems, interactive experiences, and VR/XR applications, with a focus on **Unity, C#, gameplay programming, and enemy AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With
+- **Game Development:** Unity, C#, Gameplay Systems, Enemy AI, VR/XR
+- **Programming:** C#, Java, C++, JavaScript, C, Python
+- **Creative Tools:** Blender, Photoshop, Illustrator, Premiere Pro
+
+### Selected Work
+- **Forbidden Sword** — Solo 2D action platformer featuring custom combat, movement, enemy AI, progression, and original pixel art
+- **The Asylum** — VR psychological horror game with reactive enemy AI, VR interactions, puzzles, and environmental systems
+- **Castle Conquerors** — Dungeon crawler and tower assault game with randomized encounters and reusable enemy systems
+- **Persona-Inspired Music Visualizer** — Unity experience using audio-frequency analysis to drive reactive visuals and animation
+
+Currently preparing my work for gameplay programming, game development, software engineering, and interactive technology opportunities.
